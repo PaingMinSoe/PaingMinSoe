@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PaingMinSoe
 - 👀 I’m interested in K-pop and Anime.
-- 📖 Learning PHP, Python & more...
+- 📖 Learning ...
 - 📫 You can search me on facebook, Instagram and here, Github. 
 
 <!---
