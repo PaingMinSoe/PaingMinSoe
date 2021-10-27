@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PaingMinSoe
-- 👀 I’m interested in K-pop and Anime.
+- 👀 I’m interested in ...
 - 📖 Learning ...
-- 📫 You can search me on facebook, Instagram and here, Github. 
+- 📫 You can search me on ... 
 
 <!---
 PaingMinSoe/PaingMinSoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
